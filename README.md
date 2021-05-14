@@ -4,7 +4,6 @@ PlaineMorteLakehydro_thermodynamics
 
 The `notebooks` process the data acquired during the 2019 field campaign on Plaine Morte to obtain the results and the figures presented in: "Drainage of an ice-dammed lake through a supraglacial stream: hydraulics and thermodynamics" submitted in The Cryosphere by Ogier et al (May 2021). 
 
-All datas and results (=products) produced by this notebooks can be also directly download from https://people.ee.ethz.ch/~werderm/pm-data/ and running these notebooks is relevant only if you want to explore the data processing in detail, or reproduce the figures of the article yourself.
 
 **Computing environment and packages instalations**
 
@@ -50,7 +49,7 @@ It will run the all the notebooks in a specific order because all notebooks are 
   
 **`Products_run`** 
 
-   - compiles all notebooks to re-produce the products (=data processed) on your local machine from raw-data download from `paths_download`. Note: products can also be directly downloaded from https://people.ee.ethz.ch/~werderm/pm-data/
+   - compiles all notebooks to re-produce the products (=data processed) on your local machine from raw-data download from `paths_download`.
 
 
 **`Conductivity_calibration`**
