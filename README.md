@@ -2,7 +2,7 @@ PlaineMorteLakehydro_thermodynamics
 ==============================================
 
 
-The `notebooks` process the data acquired during the 2019 field campaign on Plaine Morte to obtain the results and the figures presented in: "Drainage of an ice-dammed lake through a supraglacial stream: hydraulics and thermodynamics" submitted in The Cryosphere by Ogier et al (May 2021).
+The `notebooks` process the data acquired during the 2019 field campaign on Plaine Morte to obtain the results and the figures presented in: "Drainage of an ice-dammed lake through a supraglacial stream: hydraulics and thermodynamics" published in The Cryosphere by Ogier et al (2021), DOI: 10.5194/tc-15-5133-2021.
 
 
 **Computing environment and packages installations**
